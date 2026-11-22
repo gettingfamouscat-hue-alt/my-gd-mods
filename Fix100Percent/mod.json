@@ -7,7 +7,7 @@
     },
     "id": "damian.fix100percent",
     "name": "Fix 100%",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "developer": "damian",
     "description": "Calculate classic-level progress from the player's X position instead of verification time.",
     "tags": ["bugfix", "interface"]

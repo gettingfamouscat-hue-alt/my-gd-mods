@@ -10,7 +10,7 @@ Platformer levels use GD's normal calculation.
 - Geode 5.10.1 or newer
 - No extra mod dependencies
 
-[Download Fix 100%](https://github.com/gettingfamouscat-hue-alt/my-gd-mods/releases/tag/fix-100-v1.0.0)
+[Download Fix 100%](https://github.com/gettingfamouscat-hue-alt/my-gd-mods/releases/tag/fix-100-v1.0.1)
 · [Source code](Fix100Percent)
 
 The first release is a test build. The Windows build and calculation tests pass;

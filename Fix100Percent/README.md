@@ -7,7 +7,9 @@ contains verification-time data. The percentage stays below 100 until the run
 is complete. Platformer levels use GD's normal percentage calculation.
 
 The mod hooks `PlayLayer::getCurrentPercent`, which GD uses for the progress bar
-and percentage label. It does not edit level data or hook the completion routine.
+and percentage label. It captures that position at death and uses it for New Best
+and the saved attempt percentage, then clears it on retry. It does not edit level
+layout or hook the completion routine.
 Other mods that draw their own percentage counter may calculate it separately.
 
 X-based progress can move backward in levels that reverse the player. Existing
