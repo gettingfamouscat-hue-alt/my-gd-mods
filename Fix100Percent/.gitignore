@@ -1,0 +1,5 @@
+/build/
+/research/
+*.obj
+*.exe
+*.log

@@ -1,0 +1,14 @@
+{
+    "geode": "5.10.1",
+    "gd": {
+        "win": "2.2081",
+        "mac": "2.2081",
+        "android": "2.2081"
+    },
+    "id": "damian.fix100percent",
+    "name": "Fix 100%",
+    "version": "v1.0.0",
+    "developer": "damian",
+    "description": "Calculate classic-level progress from the player's X position instead of verification time.",
+    "tags": ["bugfix", "interface"]
+}
